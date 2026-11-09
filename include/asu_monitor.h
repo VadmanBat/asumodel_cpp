@@ -1,4 +1,5 @@
 #pragma once
+// Created by Vadim 18.01.2026.
 #include "udp_handler.h"
 #include "var_storage.h"
 

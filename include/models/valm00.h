@@ -1,4 +1,5 @@
 #pragma once
+// Created by Vadim 18.01.2026.
 #include "base_model.h"
 
 class Valm00 : public BaseModel {
