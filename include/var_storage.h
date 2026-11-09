@@ -1,5 +1,5 @@
 #pragma once
-// Created by Vadim 18.01.2026.
+// Created by Vadim on 18.01.2026.
 #include <vector>
 #include <string>
 #include <unordered_map>
