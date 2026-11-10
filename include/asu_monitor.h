@@ -1,5 +1,6 @@
-#pragma once
 // Created by Vadim on 18.01.2026.
+#pragma once
+
 #include "udp_handler.h"
 #include "var_storage.h"
 
